@@ -1,0 +1,4 @@
+[submodule "mxnet"]
+	path = mxnet
+	url = git@github.com:pengzhou93/mxnet.git
+	branch = msic
